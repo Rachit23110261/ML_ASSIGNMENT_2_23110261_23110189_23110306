@@ -14,7 +14,14 @@ N= 1000
 Effect of L2 Regularization:
 
 with lamda=0
-<img width="969" height="510" alt="image" src="https://github.com/user-attachments/assets/7ac4a770-af01-4f71-b96c-7fdba600cb0a" />
+<img width="969" height="510" alt="image" src="https://github.com/user-attachments/assets/9a9fa92c-9775-4af0-b91a-49a5933890b4" />
+with lamda =1e-4
+<img width="969" height="510" alt="image" src="https://github.com/user-attachments/assets/dcffd5f7-9414-431c-b81d-318e6cde1160" />
+with lamda= 1e-6
+<img width="1436" height="759" alt="image" src="https://github.com/user-attachments/assets/ac06d24e-ec02-45db-8b37-1f42a0c3c61d" />
+
+
+
 
 
 
